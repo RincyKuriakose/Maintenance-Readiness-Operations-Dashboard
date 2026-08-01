@@ -68,23 +68,15 @@ The dashboard includes:
 ```text
 Maintenance-Readiness-Operations-Dashboard/
 │
-├── dashboard/
-│   └── Maintenance_Readiness_Dashboard.pbix
-│
-├── data/
-│   └── maintenance_readiness_data.xlsx
-│
-├── documents/
-│
-├── screenshots/
-│   └── maintenance_readiness_dashboard.png
-│
+├── Maintenance_Readiness_Dashboard.pbix
+├── maintenance_readiness_data.xlsx
+├── maintenance_readiness_dashboard.png
 └── README.md
 
 ```
 ## Dashboard Preview
 
-![Maintenance Readiness Dashboard](screenshots/maintenance_readiness_dashboard.png)
+![Maintenance Readiness Dashboard](maintenance_readiness_dashboard.png)
 
 ## Skills Demonstrated
 
